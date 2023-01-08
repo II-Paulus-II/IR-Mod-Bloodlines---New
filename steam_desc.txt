@@ -1,0 +1,120 @@
+[h1][b]Max's Bloodlines mod updated for 2.0[/b][/h1]
+
+One of the best mods for this game is the bloodlines mod made by Max. Now it is updated for 2.0
+
+[b]Max's original mod is here - You can find some of the details of the bloodlines in that description.[/b]
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1741771043
+
+[b]Please read most recent updates[/b]
+
+[h1]NOT IRONMAN COMPATIBLE[/h1]
+
+[h1]First Loading[/h1]
+
+When you first start the game with this mod, give it a minute. It wont crash the game seems to have issues loading the game with speed when you have a GUI file in a mod. I am having problem with this when I am editing the two spartan kings mod also. 
+
+[h1][b]Updates and Changes[/b][/h1]
+
+[h1][b]Update - 16th June 2021[/b][/h1]
+
+Can no longer view the exact health of a character on the character window. Fixed a few minor errors in the events files.
+
+[h1][b]Update - 20th May 2021[/b][/h1]
+
+Fixed problem with "on_ruler_change" mechanic so that now antigonid event after antigonus death will now trigger as intended. Also fixed setup events for Judea & Atropatene
+
+[h1][b]Update - 19th April 2021[/b][/h1]
+
+Replaced 3 letters in the event giving taulantian bloodline so that it now actually triggers. 
+
+[h1][b]Update - 14th April 2021[/b][/h1]
+
+Fixed bug with barca bloodline and vanilla carthaginian mission from punic wars DLC. You will now be able to get Hannibal
+
+[h1][b]Update - 4th April 2021[/b][/h1]
+
+Added 3 New bloodlines. Have fun finding them in game :)
+
+Fixed trait which added starting experience to units - thanks for the reports on this guys. 
+
+All new bloodlines are added by event at the very start of the game and not through character setup. This means that if you have a tooltip which shows traits before you press play you will not see the bloodline trait. This also means that mods which *must* modify setup files will be compatible with this mod. 
+
+Added events which make sure every year that children inherit bloodlines in case the game has an error applying a bloodline on birth. 
+
+[h1][b]Update - 21st March 2021[/b][/h1]
+
+Added Blood of Demosthenes for Athens
+Changed Blood of Barcas from Levy Size Multiplier to Monthly Military Experience
+Changed Blood of Agiads from Discipline to Monthly Military Experience
+Changed some Heavy Infantry modifiers to Heavy Cav
+
+[h1][b]Update for 2.0.3 with some fixes - 18th March 2021[/b][/h1]
+
+All bloodlines should now have fully updated modifiers with the unit modifers changed so that they are all not "discipline". 
+
+Countries that start with legions don't apply unit commander buffs straight away, add a tribune and switch commanders of the main stack and then swap back to the OG commander and you will receive unit modifier buffs. 
+
+Further when the game makes a mistake with a new baby and the bloodline is not inherited events now run every year to catch this. So just wait till the end of the year to see this fix in action should ur game make a mistake. 
+
+Lastly Barca/Senonia/Roman families all members get appropriate bloodlines at game start. 
+
+[h1][b]Update - 22nd February 2021[/b][/h1]
+
+Added line to GUI file which should fix incompatibility with better GUI. Please note, Load this mod second in the list if you didnt already do so. 
+
+[h1][b]Update for patch 2.0 - 18nd February 2021[/b][/h1]
+
+Hopefully there are no errors with this update for 2.0 if there is anything wrong please let me know.
+
+Further due to setup fixes this will now be compatible with shattered world mods providing that they do not delete the country Senones.
+
+[h1][b]Update - 22nd May 2020[/b][/h1]
+
+Added Russian Localisation - thanks to crazyzombie. Also added a trigger to the events that generate characters for bactria/parthia and carthage that should add the appropriate bloodline to the sons + daughters of the generated characters. 
+
+I would appreciate anyone who plays for Parthia/Bactria or Carthage to let me know that these are working as intended.
+
+[h1][b]Update - 28th April 2020[/b][/h1]
+
+ All game generated characters will now get the traits of their parents on the game start.  This will not fix save games where some characters will not have the trait of their parents as the event runs on game start.
+
+1. Some of the originally "new" bloodlines have been changed, because some of the modifiers changed names and so Max's descriptions in the original mod list are now wrong xD. Have fun seeing the changes in game.
+
+2. Character View Window GUI has been edited so that when you have one of those legendary games collecting bloodlines, you will actually have enough room to see them all. 
+
+3. The Barca family mission has been edited as well as the original event to make this mod compatible with the free DLC "the punic wars". So if you have the DLC or not, the characters of the barca family when generated will have the appropriate bloodline. 
+
+4. The new great family system means that Max's work creating minor family bloodlines for the 20 roman families is now defunct. Now the three families that the game has chosen as "great" families for rome now have their own full bloodline which is inherited from both sides of the family.
+
+5. Blood of Brennus family now works as a great family in Sennonia whereas before if you tried to run the 1.2 bloodlines with the 1.3 Livy patch, Brennus family was a bunch of minor characters. 
+
+6. Some new roman characters have been created by me with the appropriate bloodlines to give the families a chance to breed, though due to the way characters are generated, maybe some of the families will still need to adopt 1 or 2 minors. 
+
+7. Thracian royal family now has two bloodlines as Lysimachos wife is an antipatrid. 
+
+8. Took the opportunity to nerf mercenary captain trait, was convinced to do this because of some MP folks telling me how players compete to get the best mercenary general and run him around wrecking people in battles even if he has little to no manpower left. Mercenary stacks just become general carriers. 
+
+9. Localisation rules for mods changed in 1.3 so fixed the localisation files as well. 
+
+[b]Above Screenshots[/b]
+
+The two screenshots are above not in the game now, this was how I tested the traits to make sure that they worked. I didn't test the mothers side, but the code is the same so ought not to be a problem xD
+
+[h1][b]Notes on Compatibility[/b][/h1]
+
+Also if it works in some way with save games, it won't generate any of the new bloodlines, but it may make the OG diadochi bloodlines work like argeads. 
+
+The only mod which you must load before this mod in the playset is better ui by agamidae. This is because I have modified the character window to allow more traits to display so that players who have managed to get 10 or more bloodline traits will still have a nice character window. 
+
+[h1][b]Future Plans[/b][/h1]
+
+A small number of extra bloodlines - work in progress with modding discord members parcipal & crazy zombie
+Bloodlines added by event at startup so that setup files are not touched. This will fix almost all compatibility issues with other mods, and only have issues should other mods delete characters or something like this. 
+
+[h1][b]Contacting Me[/b][/h1]
+
+I can be found on the imperator modding discord or the molon labe multiplayer discord as "II Paulus II"
+
+Molon Labe MP discord link ----- https://discord.gg/QvBXKhp3jA
+Imperator Modding discord link ---- https://discord.gg/dFVQHAPHFy
