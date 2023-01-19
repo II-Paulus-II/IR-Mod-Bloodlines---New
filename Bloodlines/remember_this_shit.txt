@@ -1,0 +1,33 @@
+Bloodlines
+
+Last character Number in 1.4 archimedes in setup is 339
+
+Check character events for new events - ur events are 55/56 [2.0]
+
+Last character number in 2.0.0 marius is 430
+
+
+						add_trait = "alcimachid"
+						add_trait = "antigonids"
+						add_trait = "antipatrid"
+						add_trait = "lagids"
+						add_trait = "seleucids"
+						add_trait = "argeads"
+						add_trait = "agiad"
+						add_trait = "achaemenid"
+						add_trait = "maurya"
+						add_trait = "zadok"
+						add_trait = "aeacidae"
+						add_trait = "agathocles"
+						add_trait = "orontid"
+						add_trait = "atropates"
+						add_trait = "barca"
+						add_trait = "arsaces"
+						add_trait = "sophytid"
+						add_trait = "diodotus"
+						add_trait = "spartocid"
+						add_trait = "brennus"
+						add_trait = "illyrius"
+						add_trait = "claudii"
+						add_trait = "cornelii"
+						add_trait = "fabii"

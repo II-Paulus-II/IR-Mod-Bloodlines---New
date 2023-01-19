@@ -1,0 +1,18 @@
+﻿
+on_ruler_change = {
+
+	on_actions = {
+		on_tribal_ruler_change
+	}
+
+}
+
+on_tribal_ruler_change = {
+	trigger = {
+		is_tribal = yes
+		current_date > 451.1.1
+	}
+	effect = {
+		add_stability = -10
+	}
+}
